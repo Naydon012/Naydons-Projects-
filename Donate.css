@@ -1,0 +1,15 @@
+h1,h3,h2,h4{
+  color: #129b5b;
+  border-block: 20px;
+  text-align: center;
+  border-radius: 25px;
+}
+body{
+  background-color: #a1e8c7;
+}
+label{
+ color: #035417;
+}
+div{
+  color: #d2cbcb;
+}

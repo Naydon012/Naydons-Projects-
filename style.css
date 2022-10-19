@@ -1,0 +1,113 @@
+html, body {
+  height: 100%;
+  width: 100%;
+ 
+
+}
+
+}
+nav.link:hover{
+ 
+  opacity: 1;}
+ /*The text colors are here for the start website and services section*/
+
+  h1 {
+ /*font-family: Arial, Helvetica, sans-serif;  */
+}
+p{
+  color: black;
+  border-block: 20px;
+  text-align: center;
+  border-radius: 25px;
+}
+
+h2{
+  text-align: center;
+
+}
+/*I put forest image here if u want to swtich or erase it */
+ header{
+  
+   text-align: center;
+   height:300px;
+   width:100%;
+
+   background-image: url('Forest.gif');
+   background-size: cover;
+   background-position: center;
+
+}
+
+footer{
+  text-align: center;
+  background-color: #000000;
+  /*Below is the picture of out footer*/
+   background-image: url('truck.gif');
+   width:100%;
+   
+  /*Above is the picture of out footer*/
+}
+footer span{
+  display: inline-block;
+  margin-bottom: 25px;
+}
+footer i{
+font-size:20px;
+}
+footer input{
+  margin-top: 25px;
+}
+.container{
+text-align: center;}
+/*team member section*/
+.headshot{
+ width:150px;
+ height:150px;
+ border-radius:50%;
+ background-color:chartreuse;
+ 
+
+}
+.col-md-3{
+
+text-align: center;
+  
+}
+/*CONTACT PADDING SECTION*/
+.contact,.input-group{
+  margin-bottom: 20px;
+
+}
+.contact i{
+  padding: 15px;
+  background-color: darkgreen;
+  color:lightgreen
+}
+.col-md-4{
+  color:lightgreen;
+}
+button{
+  size-adjust: 80px;
+}
+
+.sho{
+  background-image: url('bird\ gif.gifgif');
+}
+
+.colorful {
+color: white;
+}
+
+.colorfull {
+color: black;
+ text-shadow: 2px 2px white;
+
+}
+/* below this was added to give more space to phone users in submit area in main page*/
+.container{
+text-align:center;
+margin-bottom:32px; 
+}
+.contact,.input-group{
+  margin-bottom: 20px;
+}

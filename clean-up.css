@@ -1,0 +1,9 @@
+h1,h3,h2,h4,p{
+  color: #f5ffad;
+  border-block: 20px;
+  text-align: center;
+  border-radius: 25px;
+}
+body{
+  background-color: #2cc336;
+}

@@ -1,0 +1,16 @@
+h1,h3,h2,h5{
+  color: #004cff;
+  border-block: 20px;
+  text-align: center;
+  border-radius: 25px;
+}
+body{
+  background-color: #8fc0e6;
+}
+label{
+  color: gray;
+}
+.services{
+  padding:15px;
+}
+  
